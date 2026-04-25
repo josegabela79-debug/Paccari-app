@@ -2,7 +2,7 @@
   "name": "Paccari App",
   "short_name": "Paccari",
   "description": "Chocolate Premium Ecuatoriano",
-  "start_url": "/",
+  "start_url": "/Paccari-app/",
   "display": "standalone",
   "background_color": "#2e1503",
   "theme_color": "#2e1503",
